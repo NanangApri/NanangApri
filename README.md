@@ -92,8 +92,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=NanangApri&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
 
-**Thanks for visiting! ⭐ Feel free to explore my repositories**
-
 </div>
 
 
